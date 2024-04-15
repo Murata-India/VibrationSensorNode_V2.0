@@ -1,0 +1,15 @@
+sys_app.c:85:6:SystemApp_Init	1
+sys_app.c:130:6:HW_IoInit	1
+sys_app.c:150:6:HW_IoDeInit	1
+sys_app.c:168:6:UTIL_SEQ_Idle	1
+sys_app.c:179:9:GetBatteryLevel	3
+sys_app.c:211:7:GetTemperatureLevel	1
+sys_app.c:222:6:GetUniqueId	1
+sys_app.c:244:10:GetDevAddr	1
+sys_app.c:250:6:GetVibrationData	1
+sys_app.c:259:6:Gpio_PreInit	1
+sys_app.c:302:6:UTIL_ADV_TRACE_PreSendHook	1
+sys_app.c:313:6:UTIL_ADV_TRACE_PostSendHook	1
+sys_app.c:336:19:HAL_InitTick	1
+sys_app.c:353:10:HAL_GetTick	1
+sys_app.c:369:6:HAL_Delay	1

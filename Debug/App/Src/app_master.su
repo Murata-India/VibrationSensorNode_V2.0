@@ -1,0 +1,6 @@
+app_master.c:72:6:MX_Master_Init	8	static
+app_master.c:89:6:MX_Master_Process	8	static,ignoring_inline_asm
+app_master.c:141:6:Master_LED_Modem_Init	4	static
+app_master.c:154:6:Master_LED_Modem_DeInit	4	static
+app_master.c:165:6:Master_LED_Modem_On	4	static
+app_master.c:175:6:Master_LED_Modem_Off	4	static

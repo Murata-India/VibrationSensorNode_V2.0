@@ -1,0 +1,6 @@
+fft_processing.c:46:6:FFT_PROCESSING_F32Process	9320	static
+fft_processing.c:132:6:find_peaks	32	static
+fft_processing.c:146:6:peaks_above_min_height	32	static
+fft_processing.c:176:6:remove_close_peaks	40	static
+fft_processing.c:207:6:sort_ascend	32	static
+fft_processing.c:226:6:sort_indices_descend	40	static

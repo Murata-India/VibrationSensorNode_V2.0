@@ -1,0 +1,7 @@
+adc_if.c:97:6:SYS_InitMeasurement	4	static
+adc_if.c:108:6:SYS_DeInitMeasurement	4	static
+adc_if.c:115:7:SYS_GetTemperatureLevel	56	static
+adc_if.c:143:10:SYS_GetBatteryLevel	16	static
+adc_if.c:171:6:SYS_GetVibrationData	24	static
+adc_if.c:219:17:ADC_ReadChannel_Temp	24	static
+adc_if.c:252:6:HAL_ADC_ConvCpltCallback	16	static

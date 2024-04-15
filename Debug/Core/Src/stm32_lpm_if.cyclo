@@ -1,0 +1,6 @@
+stm32_lpm_if.c:80:6:PWR_EnterOffMode	1
+stm32_lpm_if.c:87:6:PWR_ExitOffMode	1
+stm32_lpm_if.c:96:6:PWR_ExitSleepMode	1
+stm32_lpm_if.c:118:6:PWR_EnterStopMode	1
+stm32_lpm_if.c:160:6:PWR_ExitStopMode	2
+stm32_lpm_if.c:202:6:PWR_EnterSleepMode	1

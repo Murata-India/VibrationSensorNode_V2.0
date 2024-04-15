@@ -1,0 +1,4 @@
+usart.c:46:6:HW_UART_Modem_IRQHandler	40	static
+usart.c:135:12:HW_UART_Modem_IsNewCharReceived	24	static,ignoring_inline_asm
+usart.c:159:9:HW_UART_Modem_GetNewChar	32	static,ignoring_inline_asm
+usart.c:186:13:receive	24	static

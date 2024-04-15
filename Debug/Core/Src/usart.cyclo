@@ -1,0 +1,4 @@
+usart.c:46:6:HW_UART_Modem_IRQHandler	9
+usart.c:135:12:HW_UART_Modem_IsNewCharReceived	1
+usart.c:159:9:HW_UART_Modem_GetNewChar	2
+usart.c:186:13:receive	2
